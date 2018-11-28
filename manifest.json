@@ -1,0 +1,20 @@
+{
+  "name": "Mojave Darkmode",
+  "version": "1.0",
+  "description": "A theme to integrate Google Chrome with the colors used in the MacOS Mojave dark mode and Xcode 11",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "background_tab": [31, 34, 35],
+      "bookmark_text": [221, 221, 221],
+      "frame": [31, 32, 34],
+      "frame_inactive": [62, 66, 70],
+      "ntp_background": [31, 34, 35],
+      "ntp_text": [255, 254, 255],
+      "toolbar": [41, 42, 47],
+      "tab_background_text": [200, 200, 200],
+      "tab_background_text_inactive": [164, 165, 166],
+      "tab_text": [255, 254, 255]
+    }
+  }
+}
